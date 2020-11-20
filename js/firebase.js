@@ -1,6 +1,6 @@
 // Your web app's Firebase configuration
 var firebaseConfig = {
-  apiKey: "AIzaSyBL80khcTvbVNssO7vUheDX2bTFZ_lQs_E",
+  apiKey: "",
   authDomain: "fir-app-56c90.firebaseapp.com",
   databaseURL: "https://fir-app-56c90.firebaseio.com",
   projectId: "fir-app-56c90",
